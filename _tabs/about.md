@@ -4,5 +4,19 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+> “Being a student is easy. Learning requires actual work.”
+— William Crawford
+
+## About Me
+I am a learning Software Engineer with an interest in Python, data, artificial intelligence and machine learning.
+
+## This blog is
+Me documenting my thoughts, experiences and lessons from my journey in the data science, data engineering and machine learning field.
+
+## Academic
+- MSc Electrical & Computer Engineering, Carnegie Mellon University
+- BSc Kampala International University
+
+## Reach me
+- [Github](https://github.com/elusenji/)
+- [LinkedIn](https://www.linkedin.com/in/elusenji/)
