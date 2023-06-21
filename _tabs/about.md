@@ -8,7 +8,7 @@ order: 4
 — William Crawford
 
 ## About Me
-I am a learning Software Engineer with an interest in Python, data, artificial intelligence and machine learning.
+I am a Software Engineer with an interest in Python, data, artificial intelligence and machine learning.
 
 ## This blog is
 Me documenting my thoughts, experiences and lessons from my journey in the data science, data engineering and machine learning field.
