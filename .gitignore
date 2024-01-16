@@ -22,3 +22,4 @@ package-lock.json
 assets/js/dist
 .ruby-version
 elusenji.github.io.code-workspace
+.DS_Store
